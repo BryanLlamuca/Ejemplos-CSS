@@ -1,0 +1,42 @@
+*{
+    /*color: rgb(243, 72, 72);*/
+    /*border: 1px coral;*/
+}
+
+h1{
+    color: blue;
+    border: 10px rgb(4, 14, 9);
+    background-color: brown;
+
+}
+
+p{
+    /*background-color: brown;*/
+    border: 5px solid black;
+}
+
+#primero{
+    background-color: aqua;
+}
+
+.clase{
+    background-color: rgb(15, 161, 101);
+}
+
+section article p{
+    background-color: black;
+    color: aliceblue;
+}
+
+div section, h2{
+    background-color: rgb(104, 63, 2);
+}
+
+section>article>h1{
+    background-color: rgb(7, 51, 107);
+    color: aliceblue;
+}
+
+p + article{
+    background-color: rgb(38, 124, 57);
+}
